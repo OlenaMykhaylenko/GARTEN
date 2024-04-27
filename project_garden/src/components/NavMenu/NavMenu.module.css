@@ -1,0 +1,13 @@
+.nav_menu {
+   padding: 30px 40px 28px;
+   border-bottom: 1px solid var(--grey-divider);
+   background: var(--white);
+}
+
+.nav_menu a {
+   text-decoration: none;
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 130%;
+   color: var(--black);
+}
